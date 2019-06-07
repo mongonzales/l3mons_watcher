@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "commander": "^2.9.0",
+    "esprima": "^3.1.3",
+    "ncp": "^2.0.0",
+    "util": "^0.10.3"
+  },
+  "deprecated": false,
+  "description": "npm install l3mons_watcher --g",
+  "devDependencies": {
+    "@types/node": "^7.0.0",
+    "node-uuid": "^1.4.7"
+  },
+  "license": "ISC",
+  "name": "l3mons_watcher",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.11"
+}
